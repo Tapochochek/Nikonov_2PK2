@@ -7,5 +7,7 @@
             Console.WriteLine("Hello, World!");
             Console.WriteLine("New Hello World");
         }
+
+        static void Void () {}
     }
 }
